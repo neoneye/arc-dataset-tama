@@ -15,3 +15,6 @@ Big ARC tasks compatible with the Abstraction and Reasoning Corpus json file for
 
 ## Split with OR operation
 <img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo5.png" alt="arc-dataset-tama: Example of OR operation"/>
+
+## Intersection point between 2 lines
+<img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo6.png" alt="arc-dataset-tama: Intersection point between 2 lines"/>
