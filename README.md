@@ -27,3 +27,9 @@ Big ARC tasks compatible with the Abstraction and Reasoning Corpus json file for
 
 ## Compare adjacent rows, is the mass of line segment shorter, same, longer
 <img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo9.png" alt="arc-dataset-tama: Compare adjacent rows, is the mass of line segment shorter, same, longer"/>
+
+## Count and repeat input pattern
+<img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo10.png" alt="arc-dataset-tama: Count and repeat input pattern"/>
+
+## Count and repeat output pattern
+<img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo11.png" alt="arc-dataset-tama: Count and repeat output pattern"/>
