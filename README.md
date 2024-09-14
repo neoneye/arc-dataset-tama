@@ -24,3 +24,6 @@ Big ARC tasks compatible with the Abstraction and Reasoning Corpus json file for
 
 ## Looking in the left-direction, what is the next color?
 <img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo8.png" alt="arc-dataset-tama: Looking in the left-direction, what is the next color"/>
+
+## Compare adjacent rows, is the mass of line segment shorter, same, longer
+<img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo9.png" alt="arc-dataset-tama: Compare adjacent rows, is the mass of line segment shorter, same, longer"/>
