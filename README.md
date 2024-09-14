@@ -18,3 +18,6 @@ Big ARC tasks compatible with the Abstraction and Reasoning Corpus json file for
 
 ## Intersection point between 2 lines
 <img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo6.png" alt="arc-dataset-tama: Intersection point between 2 lines"/>
+
+## Create a fractal from a pattern
+<img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo7.png" alt="arc-dataset-tama: Create a fractal from a pattern"/>
