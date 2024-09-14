@@ -21,3 +21,6 @@ Big ARC tasks compatible with the Abstraction and Reasoning Corpus json file for
 
 ## Create a fractal from a pattern
 <img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo7.png" alt="arc-dataset-tama: Create a fractal from a pattern"/>
+
+## Looking in the left-direction, what is the next color?
+<img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo8.png" alt="arc-dataset-tama: Looking in the left-direction, what is the next color"/>
