@@ -12,3 +12,6 @@ Big ARC tasks compatible with the Abstraction and Reasoning Corpus json file for
 
 ## Emit rays from lonely pixels
 <img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo4.png" alt="arc-dataset-tama: Example of emitting rays from the lonely pixels"/>
+
+## Split with OR operation
+<img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo5.png" alt="arc-dataset-tama: Example of OR operation"/>
