@@ -9,3 +9,6 @@ Big ARC tasks compatible with the Abstraction and Reasoning Corpus json file for
 
 ## Scale down and ignore noise
 <img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo3.png" alt="arc-dataset-tama: Example of scale down and ignore noise"/>
+
+## Emit rays from lonely pixels
+<img src="https://raw.githubusercontent.com/neoneye/arc-dataset-tama/main/metadata/arc-dataset-tama-demo4.png" alt="arc-dataset-tama: Example of emitting rays from the lonely pixels"/>
